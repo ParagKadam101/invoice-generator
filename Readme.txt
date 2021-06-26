@@ -1,0 +1,2 @@
+- To import the project into Intellij, go to file -> open -> select build.gradle -> open as project
+- Run the solution from the test class `Inputs`
